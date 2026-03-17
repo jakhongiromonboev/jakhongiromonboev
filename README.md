@@ -54,7 +54,7 @@ Full-Stack Developer focused on building scalable, production-ready applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jakhongiromonboev&show_icons=true&theme=tokyonight&hide=issues,contribs" />
 </p>
 
 ---
