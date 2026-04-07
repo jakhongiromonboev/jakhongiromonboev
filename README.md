@@ -16,7 +16,6 @@ Full-Stack & Backend Developer — Building scalable, production-ready applicati
 ## 👨‍💻 About Me
 
 - 🌍 Based in **South Korea (Busan)**
-- 💼 Actively seeking **Backend / Full-Stack Developer** opportunities
 - 🤝 Open to collaborating on real-world, scalable applications
 - ⚡ Strong focus on **clean architecture, performance, and production-ready systems**
 
