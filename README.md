@@ -147,4 +147,4 @@ Full-Stack & Backend Developer — Building scalable, production-ready applicati
   </a>
 </p>
 
-<p><strong>Profile ownership verification: 2026-09-22</strong>/p>
+<strong>Profile ownership verification: 2026-09-22</strong>
