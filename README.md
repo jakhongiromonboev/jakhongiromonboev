@@ -146,3 +146,5 @@ Full-Stack & Backend Developer — Building scalable, production-ready applicati
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+<p><strong>Profile ownership verification: 2026-09-22</strong>/p>
