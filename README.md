@@ -25,7 +25,6 @@ building learning-management services and operational tools.
 - Develop both user-facing applications and administrator workspaces.
 - Connect frontend workflows with backend business rules and data models.
 - Work with authentication, payments, real-time communication, and deployment.
-- Open to opportunities in **Busan, Seoul, and Gyeonggi**, including relocation.
 
 ---
 
