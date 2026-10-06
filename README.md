@@ -1,150 +1,157 @@
 <h1 align="center">Hi 👋, I'm Jakhongir Omonboev (John)</h1>
 
 <h3 align="center">
-Full-Stack & Backend Developer — Building scalable, production-ready applications
+Full-Stack Developer · React & TypeScript · NestJS · Java & Spring Boot
 </h3>
 
 <p align="center">
-  <a href="https://fairwaypath.com" target="_blank">🌐 Portfolio</a> •
+  <a href="https://fairwaypath.com">🌐 Portfolio</a> •
   <a href="mailto:jakhongiromonboev@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/jakhongiromonboev" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/jakhongiromonboev" target="_blank">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/jakhongiromonboev">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🌍 Based in **South Korea (Busan)**
-- 🤝 Open to collaborating on real-world, scalable applications
-- ⚡ Strong focus on **clean architecture, performance, and production-ready systems**
+I'm a full-stack developer based in **Busan, South Korea**.
 
----
+I build web applications from user interfaces and APIs to databases,
+external integrations, deployment, and ongoing maintenance.
 
-## 🧠 Tech Stack
+Currently, I work as a **Full-Stack Developer at STUDYFACTORY RESEARCH LAB**,
+building learning-management services and operational tools.
 
-### 🚀 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,java,spring,python" />
-</p>
-
-- REST API & GraphQL API design
-- Scalable architecture with **NestJS** & **Spring Boot**
-- Authentication — JWT, Sessions, RBAC
-- Real-time systems with WebSockets
-- AI/LLM integration (Gemini, Claude API)
+- Develop both user-facing applications and administrator workspaces.
+- Connect frontend workflows with backend business rules and data models.
+- Work with authentication, payments, real-time communication, and deployment.
+- Open to opportunities in **Busan, Seoul, and Gyeonggi**, including relocation.
 
 ---
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css" />
-</p>
+## Featured Work
 
-- Modern UI with **React & Next.js**
-- Apollo Client (GraphQL integration)
-- Responsive and clean UI/UX
+### 🎓 Jagong Online — Online Study Management Platform
 
----
+An online study service for adult exam candidates, with member and
+administrator workflows.
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
+**Stack:** React · TypeScript · NestJS · PostgreSQL · Prisma · LiveKit · Socket.IO
 
-- **MongoDB** — schema design, aggregation pipelines, optimization
-- **PostgreSQL** — relational modeling, indexing, complex queries
-- **Redis** — caching, queues, pub/sub
+- Build responsive member and administrator interfaces connected to REST APIs.
+- Implement JWT authentication, role-based permissions, and branch-scoped access.
+- Develop live video study rooms with LiveKit/WebRTC and presence updates with Socket.IO.
+- Implement PortOne payment verification, signed webhook handling, and duplicate-aware membership updates.
+- Develop study-time tracking, attendance, schedules, and leave-management workflows.
 
----
+### 🏫 Study Factory — Learning-Center Operations Platform
 
-### 🔐 Auth & Real-Time
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge" />
-</p>
+A web platform supporting the daily work of learning-center members,
+staff, and administrators.
 
-- JWT authentication & refresh token flow
-- Session-based auth (admin systems)
-- Real-time communication (Socket.IO / WebSockets)
+**Stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · React · TypeScript
 
----
+- Develop member, staff, and administrator workspaces.
+- Implement QR-based check-in/out, attendance management, leave requests, and seat assignments.
+- Build study-time reporting and operational dashboards.
+- Implement JWT authentication with role- and branch-scoped authorization.
+- Maintain Docker-based backend delivery and AWS S3/CloudFront frontend deployment workflows.
 
-### 🚀 DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux" />
-</p>
+### 🏡 Retreat Operations Platform — In Development
 
-- Dockerized applications
-- Nginx reverse proxy configuration
-- Linux VPS deployment
+A full-stack application connecting property administrators, guests,
+and staff through shared operational workflows.
+
+**Stack:** React · TypeScript · Vite · NestJS · PostgreSQL · Prisma · S3 Integration
+
+- Build administrative tools for stay scheduling, staff assignments, property guides, and issue tracking.
+- Implement property QR entry and private stay-link access.
+- Develop mobile guest checklists, photo attachments, submissions, and correction history.
+- Implement Excel roster import with preview, validation, and transactional confirmation.
+- Build operational report exports and revision checks for data changes.
 
 ---
 
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea" />
-</p>
+## Technical Skills
+
+| Area | Technologies & Experience |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, responsive interfaces |
+| Backend | Node.js, NestJS, Express, Java, Spring Boot, REST APIs, GraphQL |
+| Databases & ORM | PostgreSQL, MongoDB, Prisma, Spring Data JPA |
+| Authentication | JWT, session-based authentication, role- and branch-scoped authorization |
+| Real-Time | Socket.IO, WebSockets, LiveKit, WebRTC |
+| Integrations | PortOne payments and webhooks, external APIs, S3-compatible storage |
+| Deployment | AWS, Docker, Nginx, Linux, GitHub Actions, S3, CloudFront |
+| Tools | Git, Postman, VS Code, IntelliJ IDEA |
+
+### What I Focus On
+
+- Connecting user workflows with clear backend business rules.
+- Handling validation, authorization, and external-service failures.
+- Keeping payment and membership updates consistent.
+- Building maintainable interfaces and APIs.
+- Understanding problems across the frontend, backend, and database.
 
 ---
 
-## 🚀 Featured Projects
+## Personal Projects
 
-### 🤖 Birdie AI — AI-Powered Golf Assistant
-- Built with **NestJS, TypeScript, Gemini API**
-- Conversational AI agent with ReAct loop pattern
-- Tool-calling architecture with MCP integration
-- Telegram bot interface
+### 🤖 Birdie AI — Golf Assistant
 
----
+**NestJS · TypeScript · Gemini API**
+
+- Conversational AI assistant using a ReAct-style loop.
+- Tool-calling architecture with MCP integration.
+- Telegram bot interface.
 
 ### ⛳ Fairway — Golf Community Platform
-- Built with **NestJS, GraphQL, MongoDB, Next.js**
-- Advanced schema design (Members, Products, Events, Notifications)
-- Real-time features & scalable backend architecture
-- Apollo Client integration on frontend
-- RBAC with JWT authentication
 
----
+**NestJS · GraphQL · MongoDB · Next.js · Apollo Client**
 
-### 🎓 Smart Attendance System
-- Built with **NestJS, MongoDB, Passport, JWT**
-- Multi-role RBAC (Super Admin, Admin, Teacher, Parent)
-- Telegram bot notifications for parents
-- Production-grade architecture with class-validator DTOs
+- Build community features around members, products, events, and notifications.
+- Connect a GraphQL backend to a Next.js frontend.
+- Implement JWT authentication and role-based access.
 
----
+[Backend](https://github.com/jakhongiromonboev/fairway) ·
+[Frontend](https://github.com/jakhongiromonboev/fairway-next)
 
 ### 🛍️ Trendora — E-commerce Platform
-- Built with **Node.js, Express, TypeScript, MongoDB**
-- JWT authentication (users) + Session-based admin panel
-- Product management with filtering, pagination, stock tracking
-- Order system with automatic stock updates
+
+**Node.js · Express · TypeScript · MongoDB · React**
+
+- Implement product filtering, pagination, stock tracking, and order management.
+- Build JWT-based user authentication and a session-based administrator panel.
+- Connect order creation with inventory updates.
+
+[Backend](https://github.com/jakhongiromonboev/trendora) ·
+[Frontend](https://github.com/jakhongiromonboev/trendora-react)
+
+### 📋 Smart Attendance System
+
+**NestJS · MongoDB · Passport · JWT**
+
+- Implement access controls for administrators, teachers, and parents.
+- Integrate Telegram notifications.
+- Validate API inputs using class-validator DTOs.
 
 ---
 
-## 📊 GitHub Stats
+## Working With AI
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakhongiromonboev&theme=tokyonight&hide_border=true" />
-</p>
+I use AI-assisted development tools for implementation, debugging,
+and documentation, while reviewing the generated code and checking
+its behavior against application requirements.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakhongiromonboev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+My personal AI work includes Gemini API integration, conversational
+workflows, and tool calling through Birdie AI.
 
 ---
 
-## 🔗 Connect With Me
+## Let's Connect
 
-<p align="left">
-  <a href="https://github.com/jakhongiromonboev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/jakhongiromonboev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+I'm interested in full-stack and backend opportunities where I can
+build useful products and stay involved through deployment and maintenance.
 
-<strong>Profile ownership verification: 2026-09-22</strong>
+📧 **jakhongiromonboev@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/jakhongiromonboev)
